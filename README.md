@@ -148,24 +148,6 @@ Focus:
   - Automation
   - Infrastructure
   - Networking
-```
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sev3rik&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sev3rik&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Sev3rik&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
 ---
 
 ## Philosophy
