@@ -44,21 +44,21 @@ I enjoy building reliable solutions that improve operational efficiency, strengt
 
 ### Interests
 
-- Cybersecurity
-- Backend Development
-- Linux
-- Containers & Self-hosting
-- Cloud Infrastructure
-- Automation
-- Open Source
+* Cybersecurity
+* Backend Development
+* Linux
+* Containers & Self-hosting
+* Cloud Infrastructure
+* Automation
+* Open Source
 
 ### Currently Learning
 
-- Threat Hunting
-- Malware Analysis
-- Cloud Security
-- Kubernetes
-- Offensive Security
+* Threat Hunting
+* Malware Analysis
+* Cloud Security
+* Kubernetes
+* Offensive Security
 
 </td>
 
@@ -66,21 +66,14 @@ I enjoy building reliable solutions that improve operational efficiency, strengt
 
 ## Current Focus
 
-- Security Engineering
-
-- FastAPI & APIs
-
-- Linux
-
-- Docker
-
-- Kubernetes
-
-- Infrastructure
-
-- Threat Detection
-
-- Automation
+* Security Engineering
+* FastAPI & APIs
+* Linux
+* Docker
+* Kubernetes
+* Infrastructure
+* Threat Detection
+* Automation
 
 </td>
 
@@ -102,13 +95,13 @@ I enjoy building reliable solutions that improve operational efficiency, strengt
 
 ## Featured Projects
 
-| Project | Description |
-| --------- | ------------- |
-| - **SEVERIK DYNAMICS** | Independent IT & Cybersecurity Services |
-| - **SOC Automation** | Monitoring & Incident Response |
-| - **WhatsApp Validator** | Chilean business validation platform |
-| - **Infrastructure Lab** | Docker, Linux & Networking |
-| - **Security Research** | OSINT, Threat Intelligence & Detection |
+| Project                | Description                             |
+| ---------------------- | --------------------------------------- |
+| **SEVERIK DYNAMICS**   | Independent IT & Cybersecurity Services |
+| **SOC Automation**     | Monitoring & Incident Response          |
+| **WhatsApp Validator** | Chilean business validation platform    |
+| **Infrastructure Lab** | Docker, Linux & Networking              |
+| **Security Research**  | OSINT, Threat Intelligence & Detection  |
 
 ---
 
@@ -141,6 +134,8 @@ Focus:
   - Automation
   - Infrastructure
   - Networking
+```
+
 ---
 
 ## Philosophy
