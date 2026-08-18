@@ -2,14 +2,7 @@
 
 <img src="./assets/banner.png" width="100%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=3500&color=8B5CF6&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;Backend+Developer;Linux+Enthusiast;One+heart.+One+exception.+Sabrina."/>
-
-<br>
-
-> *"While I spend my days protecting systems from compromise,  
-> my own heart surrendered willingly to a girl dressed in black."*
-
-<sub>🖤 Dedicated to Sabrina - My favorite exception - IF YOU DIN'T BOTHER TO READ, MEANS I'M TAKEN, FUCK OFF.</sub>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=3500&color=8B5CF6&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;Backend+Developer;Linux+Enthusiast."/>
 
 </div>
 
