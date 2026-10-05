@@ -1,153 +1,35 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%">
+<img src="./assets/header.svg" width="100%" alt="SEV3RIK — Cybersecurity Engineer · Offensive Security · Backend & Automation · Linux"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=3500&color=8B5CF6&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;Backend+Developer;Linux+Enthusiast."/>
-
-</div>
-
----
-
-<table>
-
-<tr>
-
-<td width="60%" valign="top">
-
-## About Me
-
-I'm a **Cybersecurity Engineer** passionate about infrastructure, backend development and automation.
-
-I enjoy building reliable solutions that improve operational efficiency, strengthen security and simplify complex workflows.
-
-## Certifications
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/EC--Council-CEH-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Hack%20The%20Box-CPTS-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Hack%20The%20Box-CWES-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Hack%20The%20Box-CJCA-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Acronis-Cyber%20Protect-0054A6?style=for-the-badge&logo=acronis&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Acronis-Cloud%20Tech%20Professional-0054A6?style=for-the-badge&logo=acronis&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Acronis-Backup-0054A6?style=for-the-badge&logo=acronis&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Acronis-Cyber%20Cloud-0054A6?style=for-the-badge&logo=acronis&logoColor=white"/>
-
-</p>
-
-### Interests
-
-* Cybersecurity
-* Backend Development
-* Linux
-* Containers & Self-hosting
-* Cloud Infrastructure
-* Automation
-* Open Source
-
-### Currently Learning
-
-* Threat Hunting
-* Malware Analysis
-* Cloud Security
-* Kubernetes
-* Offensive Security
-
-</td>
-
-<td width="40%" valign="top">
-
-## Current Focus
-
-* Security Engineering
-* FastAPI & APIs
-* Linux
-* Docker
-* Kubernetes
-* Infrastructure
-* Threat Detection
-* Automation
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,go,rust,nodejs,bash,linux,docker,kubernetes,postgres,mysql,redis,fastapi,nginx,git,github,vscode,cloudflare,postman&perline=6"/>
+<a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="./assets/btn-linkedin.svg" height="44" alt="LinkedIn"/></a>&nbsp;
+<a href="https://app.hackthebox.com/profile/YOUR_HTB_ID"><img src="./assets/btn-htb.svg" height="44" alt="Hack The Box"/></a>&nbsp;
+<a href="https://YOUR_SEVERIK_SITE"><img src="./assets/btn-web.svg" height="44" alt="SEVERIK DYNAMICS"/></a>&nbsp;
+<a href="mailto:YOUR_EMAIL"><img src="./assets/btn-email.svg" height="44" alt="Email"/></a>
 
 </div>
 
----
+<br/>
 
-## Featured Projects
+<img src="./assets/section-whoami.svg" width="100%" alt="0x01 — WHOAMI"/>
+<img src="./assets/terminal.svg" width="100%" alt="Cybersecurity Engineer at SEVERIK DYNAMICS. Focus: security engineering and threat detection. Certs: CPTS, CWES, CJCA, CEH. Stack: Python, Go, Rust, FastAPI. Infra: Linux, Docker, Kubernetes, Nginx. Learning: threat hunting and malware analysis."/>
 
-| Project                | Description                             |
-| ---------------------- | --------------------------------------- |
-| **SEVERIK DYNAMICS**   | Independent IT & Cybersecurity Services |
-| **SOC Automation**     | Monitoring & Incident Response          |
-| **WhatsApp Validator** | Chilean business validation platform    |
-| **Infrastructure Lab** | Docker, Linux & Networking              |
-| **Security Research**  | OSINT, Threat Intelligence & Detection  |
+<img src="./assets/section-credentials.svg" width="100%" alt="0x02 — CREDENTIALS"/>
+<img src="./assets/credentials.svg" width="100%" alt="HTB CPTS, HTB CWES, HTB CJCA, EC-Council CEH, plus Acronis Cyber Protect, Cloud Tech Professional, Backup and Cyber Cloud"/>
 
----
+<img src="./assets/section-arsenal.svg" width="100%" alt="0x03 — ARSENAL"/>
+<img src="./assets/arsenal.svg" width="100%" alt="Python, Go, Rust, Bash, JavaScript · FastAPI, Node.js, PostgreSQL, MySQL, Redis · Linux, Docker, Kubernetes, Nginx, Cloudflare · Git, GitHub, VS Code, Postman"/>
 
-## Development Environment
+<img src="./assets/section-operations.svg" width="100%" alt="0x04 — OPERATIONS"/>
+<a href="https://YOUR_SEVERIK_SITE"><img src="./assets/project-featured.svg" width="100%" alt="SEVERIK DYNAMICS — independent IT & cybersecurity services"/></a>
+<a href="https://github.com/Sev3rik/REPO"><img src="./assets/project-soc.svg" width="49.5%" alt="SOC Automation"/></a><a href="https://github.com/Sev3rik/REPO"><img src="./assets/project-whatsapp.svg" width="49.5%" alt="WhatsApp Validator"/></a>
+<a href="https://github.com/Sev3rik/REPO"><img src="./assets/project-lab.svg" width="49.5%" alt="Infrastructure Lab"/></a><a href="https://github.com/Sev3rik/REPO"><img src="./assets/project-research.svg" width="49.5%" alt="Security Research"/></a>
 
-```yaml
-Operating System:
-  - Linux
+<img src="./assets/section-telemetry.svg" width="100%" alt="0x05 — TELEMETRY"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sev3rik/Sev3rik/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sev3rik/Sev3rik/output/snake-light.svg"/>
+  <img src="https://raw.githubusercontent.com/Sev3rik/Sev3rik/output/snake-dark.svg" width="100%" alt="Contribution graph being eaten by a snake"/>
+</picture>
 
-Languages:
-  - Python
-  - Go
-  - Bash
-  - JavaScript
-  - Rust
-
-Backend:
-  - FastAPI
-  - Node.js
-
-Infrastructure:
-  - Docker
-  - Kubernetes
-  - PostgreSQL
-  - Nginx
-  - Cloudflare
-
-Focus:
-  - Cybersecurity
-  - Automation
-  - Infrastructure
-  - Networking
-```
-
----
-
-## Philosophy
-
-> *“Love is one of the most intense feelings felt by man; another is hate. Forcing yourself to feel indiscriminate love is very unnatural. If you try to love everyone you only lessen your feelings for those who deserve your love. Repressed hatred can lead to many physical and emotional aliments. By learning to release your hatred towards those who deserve it, you cleanse yourself of these malignant emotions and need not take your pent-up hatred out on your loved ones.” - Anton Szandor LaVey*
-
----
-
-<div align="center">
-
-**Thanks for stopping by.**
-
-*Always learning. Always building.*
-
-</div>
+<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by — always learning, always building"/>
